@@ -1,0 +1,6 @@
+{
+  "name": "Stanhope University",
+  "description": "Stanhope University — Premier Global Research and Liberal Arts Institution. Discover academic programs, world-class faculty, groundbreaking research, campus life, and admissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
